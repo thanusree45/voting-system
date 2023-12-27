@@ -1,0 +1,8 @@
+<style>
+    /* Add this style to set a specific width and height for images */
+    img {
+        width: 10px; /* Adjust the width as needed */
+        height: 10px; /* Maintain the aspect ratio */ /* Set a maximum width if needed */
+         /* Center the image within its container */
+    }
+</style>
